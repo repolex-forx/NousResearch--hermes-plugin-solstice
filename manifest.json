@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-solstice",
+  "versions": [
+    {
+      "commit": "fecdeb10533c7bd1edf635594624162ed8844c28",
+      "parsed_at": "2026-11-08T06:50:59.675717+00:00",
+      "filetree": "filetree/fecdeb10533c7bd1edf635594624162ed8844c28.nq.gz",
+      "blobs": [
+        "blob/280d2c8fe18a5f4ad4e0e4e959e193449988a60f.nq.gz",
+        "blob/7dcda60013b5a460da674be9a897f60290121f94.nq.gz",
+        "blob/3d87b06d0c9812c363d7ea4cf94d5e9af8a8d113.nq.gz",
+        "blob/409affaad3c4efe1316f8e9d1a1a2e4094f81b3f.nq.gz",
+        "blob/6efadc7c40d575af0a8a92cb3d27d7f6eaf305cb.nq.gz",
+        "blob/75c61823b87164dde85ad0f2c78c300e011cc8a2.nq.gz",
+        "blob/6a933f666efe54b7684bbbd31235297837ec2705.nq.gz",
+        "blob/9d39f5caf8506dac0f1826957f2d9324f7610ea1.nq.gz",
+        "blob/eccb269b4ee7c35689a69ed961e8cd7b34c877ec.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
