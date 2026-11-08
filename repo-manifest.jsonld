@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-solstice/commit/fecdeb10533c7bd1edf635594624162ed8844c28",
       "git:hexsha": "fecdeb10533c7bd1edf635594624162ed8844c28",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T06:53:04.548405+00:00"
     }
   ]
 }
