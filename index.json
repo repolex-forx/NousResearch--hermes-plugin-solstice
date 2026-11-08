@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-plugin-solstice",
+  "versions": [
+    {
+      "commit": "fecdeb10533c7bd1edf635594624162ed8844c28",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:53:04.548880+00:00"
+    }
+  ]
+}
